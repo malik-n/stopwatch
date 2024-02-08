@@ -1,0 +1,17 @@
+.btn {
+  padding: 20px;
+  font-size: 30px;
+  border: 2px solid black;
+  border-radius: 10px;
+  color: white;
+  background-color: blue;
+  box-shadow: 5px 10px #888888;
+  cursor: pointer;
+}
+.btn:hover {
+  background-color: rgb(72, 72, 236);
+}
+
+.btn:active {
+  box-shadow: 0px 0px 10px rgb(77, 77, 255);
+}
